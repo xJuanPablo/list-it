@@ -6,6 +6,9 @@ This simple yet effective online planner is designed for busy professionals. Thi
 ## Usage
 This easy-to-use workday planner can be used by going to your web browser and typing https://xjuanpablo.github.io/list-it/ into your search engine. Feel free to place any reminders and level up your workflow.
 
+## ScreenShot
+![Alt text](./assets/photos/screencapture-xjuanpablo-github-io-list-it-2023-07-12-20_33_11.png)
+
 ## Credits
 Special thanks to edX at the University of Austin for generously providing the starter code.
 
